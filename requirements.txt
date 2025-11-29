@@ -1,0 +1,8 @@
+numpy
+
+# Optional real dependencies (not required in pseudo):
+# pydicom
+# torch
+# torchvision
+# timm
+# scikit-image
